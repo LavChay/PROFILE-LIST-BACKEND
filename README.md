@@ -1,5 +1,4 @@
 # PROFILE-LIST-BACKEND
-
-
-# Generated this using react, redux, axios, material ui, material icons, 
-# Components are   Profile List, Create Profile, View Profile 
+ Project is created using Node Js, Express Js, Mongo DB. 
+ Mongo DB Server connection,
+ Created the API to Load List of Profiles, Create Profile
